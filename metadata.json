@@ -1,0 +1,7 @@
+{
+  "name": "Grocery AI Assistant",
+  "description": "An intelligent conversational grocery shopping assistant powered by Gemini 3 Pro. It handles complex orders, inventory management, and natural language cart operations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
