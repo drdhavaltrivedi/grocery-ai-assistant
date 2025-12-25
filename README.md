@@ -357,9 +357,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/grocery-ai-assistant/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/grocery-ai-assistant/discussions)
-- **Email**: support@example.com
+- **Issues**: [GitHub Issues](https://github.com/drdhavaltrivedi/grocery-ai-assistant/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/drdhavaltrivedi/grocery-ai-assistant/discussions)
+- **Email**: drdhavaltrivedi5@gmail.com
 
 ---
 
